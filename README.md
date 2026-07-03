@@ -14,6 +14,7 @@ Install any package with `/package install <url>`.
 - [skttp](https://github.com/miberss/skttp) http requests, get post rest and webhooks
 - [tweena](https://github.com/miberss/tweena) tweening value capability for animations
 - [2D-Scene-Renderer](https://github.com/Brian91712/2D-Scene-Renderer) text display screen rendering
+- [advancement-api](https://github.com/AlexStavrev/advancement-api) api for mc advancement support
 
 ## Adding a package
 
