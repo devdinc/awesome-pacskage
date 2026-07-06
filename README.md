@@ -15,6 +15,9 @@ Install any package with `/package install <url>`.
 - [tweena](https://github.com/miberss/tweena) tweening value capability for animations
 - [2D-Scene-Renderer](https://github.com/Brian91712/2D-Scene-Renderer) text display screen rendering
 - [advancement-api](https://github.com/AlexStavrev/advancement-api) api for mc advancement support
+- [aabb](https://github.com/miberss/aabb) axis aligned bounding boxes
+- [streask](https://github.com/miberss/streask) streaks, for kill streaks, login streaks
+- [hyde](https://github.com/miberss/hyde) simple command whitelist
 
 ## Adding a package
 
