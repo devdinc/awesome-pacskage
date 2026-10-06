@@ -18,6 +18,7 @@ Install any package with `/package install <url>`.
 - [aabb](https://github.com/miberss/aabb) axis aligned bounding boxes
 - [streask](https://github.com/miberss/streask) streaks, for kill streaks, login streaks
 - [hyde](https://github.com/miberss/hyde) simple command whitelist
+- [pacskage-reorder](https://github.com/devdinc/pacskage-reorder/) reorders packages in dependency order after package changes
 
 ## Adding a package
 
