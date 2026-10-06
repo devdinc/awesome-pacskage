@@ -18,6 +18,7 @@ Install any package with `/package install <url>`.
 - [aabb](https://github.com/miberss/aabb) axis aligned bounding boxes
 - [streask](https://github.com/miberss/streask) streaks, for kill streaks, login streaks
 - [hyde](https://github.com/miberss/hyde) simple command whitelist
+- [devdinc-skripts](https://github.com/devdinc/skripts) scoped variables, lambdas, runtime test framework
 
 ## Adding a package
 
